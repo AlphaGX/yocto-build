@@ -1,0 +1,6 @@
+# Ignore tmp and conf because it's machine dependant and very heavy
+/tmp/
+/cache/
+
+# Ignore log files
+*.log
