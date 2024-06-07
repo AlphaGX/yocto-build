@@ -4,3 +4,7 @@
 
 # Ignore log files
 *.log
+
+# Just in case the location hasn't been changed
+/downloads/
+/sstate-cache/
